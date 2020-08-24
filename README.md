@@ -1,5 +1,6 @@
 # Face_Recognition_with_opencv
 This is a Face Recognition with openCV in Python. 
+
 How it works 
 1. first you have to train The Model with your image data by simply clicking on the train model button in GUI . 
 2. it will open a new window in which you have to pass your name and id (id because their may be 2 or more person of same name.) 
